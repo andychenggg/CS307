@@ -20,7 +20,8 @@ If you feel that these documents have helped you, you can light up a small **sta
 
 ## Uploaded part(s)
 
-Chapter 2 & Lab 2 -- generic, ADT, collections
+Lab1 -- Introduction
+Lecture 2 & Lab 2 -- SQL introduction and basic grammer in PostgreSQL
 
 
 
@@ -46,4 +47,5 @@ Chapter 2 & Lab 2 -- generic, ADT, collections
 
 ## 上传的部分
 
-第 2 章和实验 2——泛型、抽象数据类型、集合
+实验 1 -- 简介
+课程 2 & 实验 2 -- SQL 介绍和 PostgreSQL 中的基本语法
