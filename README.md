@@ -1,2 +1,1 @@
-# CS307
-Database
+# CS307 Database
