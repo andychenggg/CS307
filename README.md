@@ -7,12 +7,15 @@ The structure of this summary is mainly derived from the course materials and ex
 
 ## Introduction to this course
 
-This course focuses on database machanism, manipulation, and its good design
+This course focuses on database machanism, manipulation, and its good design.
+
+**Please note that we will use PostgreSQL in this course**
 
 ## Update Rules
 
-1. I will try my best to update it once a week
-2. I will try my best to update it in both Chinese and English
+1.I will try my best to update it once a week
+
+~~2. I will try my best to update it in both Chinese and English~~
 
 ## Some expectations of the author:
 
@@ -21,7 +24,11 @@ If you feel that these documents have helped you, you can light up a small **sta
 ## Uploaded part(s)
 
 Lab1 -- Introduction
+
 Lecture 2 & Lab 2 -- SQL introduction and basic grammer in PostgreSQL
+
+Lecture 3 & Lab 3 -- Query with Restriction
+
 
 
 
@@ -36,10 +43,12 @@ Lecture 2 & Lab 2 -- SQL introduction and basic grammer in PostgreSQL
 
 本课程侧重于数据库机制、操作及其良好设计
 
+**请注意，我们将在本课程中使用 PostgreSQL**
+
 ## 更新规则
 
 1.我会尽量每周更新一次
-2.我会尽量更新中英文版本
+~~2.我会尽量更新中英文版本~~
 
 ## 作者的一些期待：
 
@@ -48,4 +57,7 @@ Lecture 2 & Lab 2 -- SQL introduction and basic grammer in PostgreSQL
 ## 上传的部分
 
 实验 1 -- 简介
+
 课程 2 & 实验 2 -- SQL 介绍和 PostgreSQL 中的基本语法
+
+课程 3 & 实验 3 -- 有限制的查询
