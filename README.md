@@ -48,6 +48,7 @@ Lecture 3 & Lab 3 -- Query with Restriction
 ## 更新规则
 
 1.我会尽量每周更新一次
+
 ~~2.我会尽量更新中英文版本~~
 
 ## 作者的一些期待：
