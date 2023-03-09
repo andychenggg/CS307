@@ -27,7 +27,7 @@ Lab1 -- Introduction
 
 Lecture 2 & Lab 2 -- SQL introduction and basic grammer in PostgreSQL
 
-Lecture 3 & Lab 3 -- Query with Restriction
+Lecture 3 & Lab 3 -- Query in single table: select, from, where and some functions
 
 
 
@@ -61,4 +61,4 @@ Lecture 3 & Lab 3 -- Query with Restriction
 
 课程 2 & 实验 2 -- SQL 介绍和 PostgreSQL 中的基本语法
 
-课程 3 & 实验 3 -- 有限制的查询
+课程 3 & 实验 3 -- 单表查询：select、from、where和一些函数
