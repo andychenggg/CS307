@@ -1,4 +1,4 @@
-# CS307 Database
+# CS307 Database Priciple
 
 ## Introduction to this repository
 
