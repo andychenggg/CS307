@@ -29,6 +29,8 @@ Lecture 2 & Lab 2 -- SQL introduction and basic grammer in PostgreSQL
 
 Lecture 3 & Lab 3 -- Query in single table: select, from, where and some functions
 
+Lecture 4 & Lab 4 -- Distinct, count and groupby, Join, Quickly Search properties of a table
+
 
 
 
@@ -62,3 +64,5 @@ Lecture 3 & Lab 3 -- Query in single table: select, from, where and some functio
 课程 2 & 实验 2 -- SQL 介绍和 PostgreSQL 中的基本语法
 
 课程 3 & 实验 3 -- 单表查询：select、from、where和一些函数
+
+课程 4 & 实验 4 -- Distinct、count 和 groupby、Join、快速查看表的属性
