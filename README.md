@@ -23,6 +23,8 @@ If you feel that these documents have helped you, you can light up a small **sta
 
 ## Uploaded part(s)
 
+Preparation -- How to use command to access the postgreSQL?
+
 Lab1 -- Introduction
 
 Lecture 2 & Lab 2 -- SQL introduction and basic grammer in PostgreSQL
@@ -58,6 +60,8 @@ Lecture 5 & Lab 5 -- More about join, Set Operation, Subquery, Update and Delete
 如果你觉得这些文件给予了你帮助，你可以在右上角Star出点亮一个小星星
 
 ## 上传的部分
+
+准备 -- 如何使用命令访问postgreSQL？
 
 实验 1 -- 简介
 
