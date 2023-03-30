@@ -35,7 +35,7 @@ Lecture 4 & Lab 4 -- Distinct, count and groupby, Join, Quickly Search propertie
 
 Lecture 5 & Lab 5 -- More about join, Set Operation, Subquery, Update and Delete
 
-
+Lecture 6 & Lab 6 -- More about NULL, Ordering and Window function
 
 # CS307 数据库原理
 
@@ -72,3 +72,5 @@ Lecture 5 & Lab 5 -- More about join, Set Operation, Subquery, Update and Delete
 课程 4 & 实验 4 -- Distinct、count 和 groupby、Join、快速查看表的属性
 
 课程 5 & 实验 5 -- 更多关于连接、集合操作、子查询、更新和删除
+
+课程 6 & 实验 6 -- 更多关于 NULL、排序和窗口函数
